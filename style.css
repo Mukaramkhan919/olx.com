@@ -1,0 +1,176 @@
+.icons{
+    height: 130px;
+    width: 100%;
+    position: relative;
+}
+
+.icon1{
+    
+    position: absolute;
+    top: 15px;
+    left: 30px;}
+
+.icon2{
+
+    position: absolute;
+    top: 15px;
+    left: 160px;
+}
+
+.icon3{
+    position: absolute;
+    top: 15px;
+    left: 300px;
+}
+.icon4{
+    position: absolute;
+    left: 35px;
+    top: 50px;
+    
+}
+
+.text{
+
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.hj1{
+
+    border: 2px solid black;
+    width: 300px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+
+.hj2{
+
+    border: 2px solid black;
+    width: 650px;
+    height: 45px;
+    border-radius: 5px;
+}
+.input1{
+
+    position: absolute;
+    top: 70px;
+    left: 160px;
+ 
+}
+
+input[placeholder]{ 
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 30px;
+    background-image: url(https://www.iconpacks.net/icons/2/free-search-icon-2907-thumb.png);
+background-repeat: no-repeat;
+background-size: 25px;
+padding-top: 10px;
+padding-left: 50px;
+background-position: 10px;
+
+
+
+}
+.input2{
+
+    
+    position: absolute;
+    top: 70px;
+    left: 480px;
+}
+
+input:hover{
+    border: 2px solid rgb(0, 255, 234);
+}
+
+.text1{
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: underline;
+    position: absolute;
+    left: 680px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.icon5{
+
+    position: absolute;
+    left: 1230px;
+    top: 75px;
+    border: 2px solid black;
+    width: 100px;
+    height: 45px;
+    border-radius: 25px;
+    border-top: 8px solid rgb(103, 235, 217);
+    border-right: 8px solid rgb(103, 134, 235);
+    border-left: 8px solid rgb(235, 226, 103);
+    border-bottom: 8px solid rgb(235, 226, 103);
+    cursor: pointer;
+ 
+
+}
+    .icon5img{
+        position: absolute;
+        left: 18px;
+        top: 7px;
+    }
+
+
+    .text5{
+        position: absolute;
+        left: 35px;
+        font-weight: 700;
+    
+    
+    }
+
+    .dropdown{
+        font-weight: 500;
+        color: black;
+        padding-left: 17px;
+        cursor: pointer;
+    }
+    .nav1{
+        cursor: pointer;
+        color: black;
+        padding-left: 5px;
+        font-size: 15px;
+    }
+    .nav1:hover{
+        color: aqua;
+    }
+
+    .container-fluid{
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.24);
+    }
+
+    .textall{
+        font-weight: 800;
+        font-size: 22px;
+        padding-left: 24px;
+        
+    }
+
+    .text-uppercase{
+        position: relative;
+        right: 200px;
+      
+    }
+    .gry{
+        position: absolute;
+        right: 530px;
+        font-size: 17px;
+        font-weight: 500;
+    }    
+    
+
+    .text-black{
+        background-color: rgba(169, 169, 169, 0.37);
+    }
+    .get{
+        position: absolute;
+        left: 100px;
+    }
